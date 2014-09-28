@@ -1,0 +1,2 @@
+serviceClass: th.ac.utcc.nstproject.client.GreetingService
+path: 0FBB22B10B845CC27CAD1FCFD4A462D6.gwt.rpc

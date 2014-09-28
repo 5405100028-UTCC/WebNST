@@ -1,0 +1,3 @@
+# Module nstproject
+# RPC service class, partial path of RPC policy file
+th.ac.utcc.nstproject.client.GreetingService, 0FBB22B10B845CC27CAD1FCFD4A462D6.gwt.rpc
